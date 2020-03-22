@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jorge López</title>
-    <link>https://www.jorgel.dev/</link>
+    <link>https://jorgel.dev/</link>
     <description>Recent content on Jorge López</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://www.jorgel.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jorgel.dev/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About me</title>
-      <link>https://www.jorgel.dev/about/</link>
+      <link>https://jorgel.dev/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.jorgel.dev/about/</guid>
+      <guid>https://jorgel.dev/about/</guid>
       <description>Automation advocate, monitoring passionate and big time geek!
 Working on IT for the past ten years. Starting on linux systems and adopting the DevOps movement.
 Love to learn new stuff and toying around with techonologies as much as I can.</description>

@@ -3,19 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.jorgel.dev/about/</loc>
+    <loc>https://jorgel.dev/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.jorgel.dev/categories/</loc>
+    <loc>https://jorgel.dev/categories/</loc>
   </url>
   
   <url>
-    <loc>https://www.jorgel.dev/</loc>
+    <loc>https://jorgel.dev/</loc>
   </url>
   
   <url>
-    <loc>https://www.jorgel.dev/tags/</loc>
+    <loc>https://jorgel.dev/tags/</loc>
   </url>
   
 </urlset>
